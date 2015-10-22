@@ -1,0 +1,23 @@
+
+img{
+    width: 160px;
+}
+.person{
+    float: left;
+    width: 28%;
+    padding: 10px;
+    margin-right: 25px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#mainButton{
+    margin-left: 40%;
+    margin-bottom: 25px;
+}
+.itemLabel{
+    font-weight: bold;
+}
+.deleteButton{
+    margin-top: 15px;
+}
